@@ -1,4 +1,4 @@
-🗂️ Simulace DMS systému pro služební cesty
+Simulace DMS systému pro služební cesty
 Tato aplikace slouží jako simulace DMS systému (Document Management System) pro správu žádostí o služební cesty. Uživatelé mohou prostřednictvím webového formuláře odeslat žádost, která se následně uloží ve formátu XML. Odpovědná osoba (schvalovatel) může žádost zobrazit a buď ji schválit, nebo zamítnout.
 
 Funkce aplikace
