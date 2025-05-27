@@ -28,3 +28,14 @@ GraphQL: Apollo Server (pro čtení dat)
 Datové formáty: JSON (metadata), XML (žádosti)
 
 Ukládání souborů: lokální složky (data/, approved/, rejected/)
+
+Jak projekt spustit lokálně
+Backend
+cd server
+npm install
+node server.js
+
+Frontend
+cd ../client
+npm install
+npm run dev
