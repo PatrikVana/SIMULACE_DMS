@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TravelRequest>
+  <firstName>Patrik</firstName>
+  <lastName>Váňa</lastName>
+  <department>Procesní inženýring</department>
+  <destination>holandsko</destination>
+  <departureDate>2025-05-31</departureDate>
+  <returnDate>2025-06-05</returnDate>
+  <purpose>školení</purpose>
+  <approved>false</approved>
+</TravelRequest>
